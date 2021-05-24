@@ -33,7 +33,6 @@
             <Font size="18.0" />
         </font>
     </JFXTextField>
-    <JFXButton layoutX="14.0" layoutY="14.0" onAction="#btnGoBack_OnAction" text="Go Back" />
     <JFXButton layoutX="167.0" layoutY="183.0" onAction="#btnDecryption_OnAction" text="Decrypt">
         <font>
             <Font size="20.0" />

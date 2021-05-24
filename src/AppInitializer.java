@@ -17,7 +17,7 @@ public class AppInitializer extends Application {
         Parent root = FXMLLoader.load(this.getClass().getResource("view/MainForm.fxml"));
         Scene mainScene = new Scene(root);
         primaryStage.setScene(mainScene);
-        primaryStage.setTitle("JFoenix Demo");
+        primaryStage.setTitle("Cryptography Demo");
         primaryStage.centerOnScreen();
         primaryStage.setResizable(false);
         primaryStage.show();
